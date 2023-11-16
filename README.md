@@ -1,4 +1,5 @@
-# RANK-OF-A-MATRIX
+# EXP-2 RANK-OF-A-MATRIX
+### Date: 16.08.2023
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
